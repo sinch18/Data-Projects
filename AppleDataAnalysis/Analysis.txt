@@ -1,1 +1,8 @@
+These are the following analysis from the data:
 
+1. Paid apps have better ratings.
+2. Apps supporting languages between 10 to 30 have higher ratings.
+3. Finanace and book apps have low ratings
+4. Apps with a longer description have better ratings
+5. On an average, the apps have a rating of 3.5. New apps should aim for an average rating above 3.5.
+6. Games and entertainment genre have higher competition. So, entering this genre could be difficult.
