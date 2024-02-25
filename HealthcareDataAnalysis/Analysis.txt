@@ -1,1 +1,25 @@
+1.Gender Distribution:
+More appointments have been made by female patients compared to male patients.
 
+2.Age Group Analysis:
+The show rate is nearly equal for most age groups, except for Age 0 and Age 1, where an 80% show rate is observed.
+
+3.Neighbourhood Impact:
+Across different neighborhoods, there is an approximately 80% show rate for medical appointments.
+
+4.Insurance Influence:
+Among patients without insurance (99666), approximately 80% attended their appointments.
+Patients with insurance (21801) showed a slightly lower attendance rate at around 75%.
+
+5.Hypertension and Diabetes Impact:
+Patients without hypertension (88726) exhibited a show rate of around 78%.
+Patients with hypertension (21801) demonstrated a higher show rate at around 85%.
+Patients without diabetes (102584) had an 80% show rate, while those with diabetes (7943) showed an 83% attendance rate.
+
+6.SMS Notification Effect:
+Patients who did not receive an SMS reminder (75045) had an 84% show rate.
+Patients who received an SMS reminder (35482) showed a slightly lower attendance rate at around 72%.
+
+7.Weekday Appointments:
+There are no appointments scheduled on Sundays.
+Appointments on Saturdays are comparatively less frequent than on other weekdays.
