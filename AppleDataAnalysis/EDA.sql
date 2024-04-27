@@ -95,4 +95,12 @@ SELECT
  WHERE
  a.rank = 1
 
+	
+------ Which genres are the most competitive-----
+SELECT
+prime_genre,
+count(*)
+from AppleStore
+group by prime_genre
+order by count(*) DESC
 
